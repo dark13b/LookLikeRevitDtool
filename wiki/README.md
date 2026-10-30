@@ -1,6 +1,7 @@
 # RevitDtools wiki
 
 - [Change log](CHANGELOG.md)
+- [2026-10-31: repository cleanup](2026-10-31-cleanup.md)
 - [2026-10-31: source assessment and repair plan](2026-10-31-assessment.md)
 - [User manual](../Documentation/UserManual.md)
 - [Quick start](../Documentation/QuickStartGuide.md)

@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-10-31 - Repository cleanup
+
+- Removed 25 obsolete/generated files and moved three files into their existing folders.
+- Simplified README, consolidated documentation and ignored generated release packages.
+- See the [cleanup record and verification](2026-10-31-cleanup.md).
+
 ## 2026-10-31 - Apache 2.0 and initial assessment
 
 - Replaced the current source license with the canonical Apache 2.0 text.

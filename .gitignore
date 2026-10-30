@@ -379,3 +379,7 @@ appsettings.local.json
 # Temporary files
 *.tmp
 *.temp
+# Generated release packages belong outside the source tree
+/release-*/
+/release-package/
+/RevitDtools-*.zip

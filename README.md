@@ -4,7 +4,7 @@
 
 [![Revit 2026](https://img.shields.io/badge/Revit-2026-blue.svg)](https://www.autodesk.com/products/revit)
 [![.NET 8.0](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 ## 🚀 Features
 
@@ -142,7 +142,12 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The current source is licensed under the Apache License, Version 2.0 - see [LICENSE](LICENSE) and [NOTICE](NOTICE).
+Previously published v1.1.0 artifacts retain their original MIT license.
+
+## Project Wiki
+
+See the [wiki index](wiki/README.md) for the change log and the [repair assessment](wiki/2026-10-31-assessment.md).
 
 ## 🙏 Acknowledgments
 
